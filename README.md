@@ -2,13 +2,13 @@
 
 My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking the Integrated Technical Course to High School in Computer Science at the Federal Institute. I have knowledge of Network Infrastructure, Operational Systems, Computer Programming and Assembly. I'm very interested in Hardware: Desktop and Notebook Assembly, Diagnostics, etc. However, I don't neglect programming. I'm a Dev-Junior and currently. I'm focusing on Web development, mainly in the front-end part, but I also master back-end languages and data modeling.
 
-## Social:
+## Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rwvthrdev) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/rwvthrdev) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rwvthrdev@gmail.com)
 
 
-# Languages and Tools:
+# Languages and Tools
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://devdocs.io/css/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://devdocs.io/javascript/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://devdocs.io/html/)
@@ -30,7 +30,7 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 [![MIT](https://img.shields.io/badge/MIT-green?style=for-the-badge)](https://opensource.org/license/mit)
 
 
-# GitHub Stats:
+# GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=rwvthrdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=rwvthrdev&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rwvthrdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
