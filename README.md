@@ -54,8 +54,8 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 
 <p aling="left>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="35" title="VS Code" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" title="PyCharm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VSCode" />
 
 </p>
 
