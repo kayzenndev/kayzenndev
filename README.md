@@ -54,13 +54,13 @@ My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking t
 
 <p aling="left>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VSCode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" title="PyCharm" />
 
 </p>
 
 
-# GitHub Stats:
+# GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=rwvthrdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=rwvthrdev&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rwvthrdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
