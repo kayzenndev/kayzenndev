@@ -1,6 +1,6 @@
 # RwvthrDev
 
-My name is Matheus, I'm Brazilian and I'm obsessed with technology. I'm taking the Integrated Technical Course to High School in Computer Science at the Federal Institute. I have knowledge of Network Infrastructure, Operational Systems, Computer Programming and Assembly. I'm very interested in Hardware: Desktop and Notebook Assembly, Diagnostics, etc. However, I don't neglect programming. I'm a Dev-Junior and currently. I'm focusing on Web development, mainly in the front-end part, but I also master back-end languages and data modeling.
+My name is Matheus, I'm Brazilian and I really like technology. I'm studying the Integrated Technical Course for High School Computer Science at the Federal Institute. I have knowledge of Network Infrastructure, Operating Systems, Computer Programming and Assembly. I'm very interested in Hardware: Desktop and Notebook Assembly, Diagnostics, etc. However, I don't neglect programming. I'm a Dev-Junior (very junior indeed, lol) and I'm currently focusing on web development, mainly on the front-end side, but I also have some knowledge of back-end languages and data modeling.
 
 ## Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rwvthrdev) 
