@@ -1,4 +1,4 @@
-# RwvthrDev
+# KayzenDev
 
 My name is Matheus, I'm Brazilian and I really like technology. I'm studying the Integrated Technical Course for High School Computer Science at the Federal Institute. I have knowledge of Network Infrastructure, Operating Systems, Computer Programming and Assembly. I'm very interested in Hardware: Desktop and Notebook Assembly, Diagnostics, etc. However, I don't neglect programming. I'm a Dev-Junior (very junior indeed, lol) and I'm currently focusing on web development, mainly on the front-end side, but I also have some knowledge of back-end languages and data modeling.
 
