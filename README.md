@@ -62,17 +62,17 @@ My name is Matheus, I'm Brazilian and I really like technology. I'm studying the
 
 
 # GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=rwvthrdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rwvthrdev&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rwvthrdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=kayzenndev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kayzenndev&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kayzenndev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## GitHub
 
 <a href="https://github.com/rwvthrdev?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rwvthrdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kayzenndev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
         </a>
 
-<a href="https://github.com/rwvthrdev?tab=repositories">
+<a href="https://github.com/kayzenndev?tab=repositories">
     <img alt="repositories" title="Meus repositórios no Github" src="https://custom-icon-badges.demolab.com/badge/Reposit%C3%B3rios-6A0DAD.svg?style=for-the-badge&logo=repo&logoColor=white&labelColor=4B0082"/></a>
 
 <a href="https://github.com/rwvthrdev?tab=stars">
