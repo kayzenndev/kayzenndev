@@ -68,15 +68,15 @@ My name is Matheus, I'm Brazilian and I really like technology. I'm studying the
 
 ## GitHub
 
-<a href="https://github.com/rwvthrdev?tab=followers">
+<a href="https://github.com/kayzenndev?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kayzenndev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
         </a>
 
 <a href="https://github.com/kayzenndev?tab=repositories">
     <img alt="repositories" title="Meus repositórios no Github" src="https://custom-icon-badges.demolab.com/badge/Reposit%C3%B3rios-6A0DAD.svg?style=for-the-badge&logo=repo&logoColor=white&labelColor=4B0082"/></a>
 
-<a href="https://github.com/rwvthrdev?tab=stars">
-    <img alt="stars" title="Estrelas que recebi" src="https://custom-icon-badges.demolab.com/github/stars/rwvthrdev?color=DAA520&labelColor=B8860B&style=for-the-badge&logo=star&label=Stars&logoColor=white"/></a>
+<a href="https://github.com/kayzenndev?tab=stars">
+    <img alt="stars" title="Estrelas que recebi" src="https://custom-icon-badges.demolab.com/github/stars/kayzenndev?color=DAA520&labelColor=B8860B&style=for-the-badge&logo=star&label=Stars&logoColor=white"/></a>
 
 
 <picture>
