@@ -3,7 +3,7 @@
 My name is Matheus, I'm Brazilian and I really like technology. I'm studying the Integrated Technical Course for High School Computer Science at the Federal Institute. I have knowledge of Network Infrastructure, Operating Systems and Computer Programming. I'm very interested in Hardware: Desktop and Notebook Assembly, Diagnostics, etc. However, I don't neglect programming. I'm a beginner developer and I'm currently focusing on web development, mainly on the front-end side, but I also have some knowledge of back-end languages and data modeling.
 
 ## Social
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rwvthrdev) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kayzenndev) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:who.kaizendev@yahoo.com)
 
 # Languages
